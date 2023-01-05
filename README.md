@@ -1,4 +1,4 @@
-hello
+a welcome to you
 
 <!---
 7-jack/7-jack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
